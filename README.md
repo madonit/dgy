@@ -2,4 +2,4 @@
 ### Installation
 Run the script and follow the assistant:
 
-`wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh`
+`wget https://git.io/vhu66 -O oi.sh && bash oi.sh`
