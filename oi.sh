@@ -388,6 +388,7 @@ resolv-retry infinite
 nobind
 persist-key
 persist-tun
+block-outside-dns
 remote-cert-tls server
 auth SHA512
 cipher AES-256-CBC
